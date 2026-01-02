@@ -1,2 +1,2 @@
 # funnel-design
-Lead source strategy
+🎯 Sales funnel benchmarks by industry
